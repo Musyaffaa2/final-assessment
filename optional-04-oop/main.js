@@ -18,6 +18,7 @@ console.log(inventory.listItems());
  * ID: 2, Name: Mouse, Quantity: 50, Price: 20
  */
 
+
 item1.updateDetails( 'Laptop', 8, 950);
 console.log('\nInventory after update:');
 console.log(inventory.listItems());
